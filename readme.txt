@@ -10,7 +10,7 @@ This plugin make your WordPress post payable. Registered users can buy your post
 
 == Description  ==
 
-> **THIS PLUGIN IS ABONDONED**  
+> **THIS PLUGIN IS ABANDONED**  
 > We stop maintaining Litearlly WordPress because of few development resource. Please use alteranatives.  
 > If you need special support for importing or exporting, please give us a feed back from the support forum.
 
